@@ -1,6 +1,6 @@
 # Strogonoff de Frango
 
-###Ingredientes###
+###Ingredientes
 
 **Bold** _Italic_
 - Uma xícara de arroz
