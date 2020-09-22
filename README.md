@@ -5,3 +5,4 @@
  - Strogonoff de Frango
  - Batata Frita de Forno
  - Rosquinha Lambe-dedo
+ - Pavê
